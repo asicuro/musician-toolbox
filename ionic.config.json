@@ -1,0 +1,7 @@
+{
+  "name": "musician-toolbox",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
